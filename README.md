@@ -1,7 +1,23 @@
-# University-Bus-Management-Database
-A relational database system designed to manage university transportation. The system includes students, buses, drivers, supervisors, and areas with properly defined relationships (1:M and M:N). It implements ER modeling, relational schema design, and SQL operations such as table creation and data insertion.
+# 🚍 University Buses Database System
 
-**Technologies:** SQL, MySQL, Database Design
+A database project focused on designing and implementing a system to manage university transportation.
 
-**Project Report:**
-https://drive.google.com/drive/folders/1xhMn7inajN3jYc4DIxsGbOdtE0-JTgkn?usp=drive_link
+The project covers the full database development process, from conceptual design to SQL implementation.
+
+## ⚙️ The work included:
+- Designing ER Diagram and relational schema  
+- Defining entities, attributes, and relationships  
+- Implementing database using SQL  
+- Creating tables with constraints (PK, FK, CHECK, UNIQUE)  
+- Inserting and managing data  
+- Writing SQL queries (SELECT, JOIN, Aggregate, Subqueries, Views)
+
+## 📊 Key Features:
+- Manages students, drivers, buses, supervisors, and areas  
+- Supports multiple relationships (1:M, M:N)  
+- Ensures data integrity using constraints  
+- Provides advanced queries for data analysis  
+- Uses views for simplified reporting  
+
+## 📌 Outcome:
+A complete and structured database system that simulates real-world university transportation management.
